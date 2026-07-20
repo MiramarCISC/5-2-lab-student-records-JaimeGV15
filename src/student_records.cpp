@@ -107,7 +107,7 @@ char determineLetterGrade(double score) {
     // Return 'B' for scores 80 or higher.
     // Return 'C' for scores 70 or higher.
     // Return 'D' for scores 60 or higher.
-    // Return 'F' otherwise.
+  
     if (score >= 90)
     {
         return 'A';
